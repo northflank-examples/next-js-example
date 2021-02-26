@@ -12,7 +12,7 @@ Deploy this Next.js site easily with [Northflank](https://www.northflank.com):
 - Wait for the app to build and visit the newly assigned URL. That's it!
 
 ### Live Demo
-[https://port--nextjs-demo--examples--nort-xjjq.code.run](https://port--nextjs-demo--examples--nort-xjjq.code.run)
+[https://example--next-js--examples--nort-kcwl.code.run/](https://example--next-js--examples--nort-kcwl.code.run/)
 
 ## About Next JS
 
