@@ -1,7 +1,7 @@
 # Northflank Next.js Demo
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.northflank.com">
-    <img alt="Northflank" align="right" src="https://raw.githubusercontent.com/northflank/nextjs-demo/master/media/logo.svg" width="35%" />
+    <img alt="Northflank" align="right" src="/media/logo.svg" width="35%" />
 </a>
 
 Deploy this Next.js site easily with [Northflank](https://www.northflank.com):
