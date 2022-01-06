@@ -1,11 +1,11 @@
-FROM node:12-alpine AS builder
+FROM node:16-alpine AS builder
 WORKDIR /app
 COPY package.json package.json
 RUN yarn install
 COPY . .
 RUN yarn build && yarn --production
 
-FROM node:12-alpine
+FROM node:16-alpine
 WORKDIR /app
 COPY --from=builder /app/node_modules ./node_modules
 COPY --from=builder /app/public ./public
